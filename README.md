@@ -14,3 +14,8 @@ The source code to the file is in the repo :)
 
 You can kill the malware by ending the f34rMe.exe task on TaskBar or by rebooting
 🌸
+
+## Screenshot
+
+![Screenshot (23)](https://user-images.githubusercontent.com/102450738/164873316-995e0c6f-8259-4b9e-bdb2-3901f67a9c64.png)
+
